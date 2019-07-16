@@ -1,8 +1,5 @@
 # Group 03-2019
 
-| Name | GitHub |
-| ---  | ---    |
-
 # Assignments
 
 ## Figma Design
