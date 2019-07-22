@@ -15,4 +15,22 @@ Complete:
 
 For each of them create a **separate PR** to your teacher.
 
-Delete all the exercises which you are not planning to hand-in, so that all of the tests are green. 
+Delete all the exercises which you are not planning to hand-in, so that all of the tests are green.
+
+| Name | Easy | Medium |
+| --- | --- | --- |
+| Marta | - | - |
+| Ketija | - | - |
+| Kārlis | - | - |
+| Andrejs | - | - |
+| Jānis | - | - |
+| Andis | - | - |
+| Eduards | - | - |
+| Ēriks | - | - |
+| Zigmunds | - | - |
+| Kristiāna | - | - |
+| Krišjānis | 27.07 | 27.07 |
+| Andris | - | - |
+| Gatis | - | - |
+| Kristiāns | - | - |
+| Līvija | - | - |
