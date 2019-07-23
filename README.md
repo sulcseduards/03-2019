@@ -10,7 +10,7 @@
 | Eduards | https://github.com/sulcseduards |
 | Ēriks | https://github.com/PositiveEric |
 | Zigmunds | - |
-| Kristiāna | - |
+| Kristiāna | https://github.com/ZoomOutt |
 | Krišjānis | - |
 | Andris | https://github.com/andrisLaduzans |
 | Gatis | https://github.com/gatis-dev |
@@ -32,7 +32,7 @@
 | Eduards | [Jul 23](https://github.com/sulcseduards/Figma) | There are commits, but no pull-requests |
 | Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | - |
 | Zigmunds | - | - |
-| Kristiāna | - | - |
+| Kristiāna | [Jul 12](https://github.com/ZoomOutt/Mana) | PR is missing |
 | Krišjānis | - | - |
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
 | Gatis | [Jul 15](https://github.com/gatis-dev/first-project/pull/2) | - | - |
@@ -64,7 +64,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Eduards | [Jul 23](https://github.com/sulcseduards/javascript-exercises/pull/1/files) | ✅ | ✅ Checked by Sandris. Easy & Medium in one PR |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | - | - | - |
-| Kristiāna | - | - | - |
+| Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
 | Krišjānis | 27.07 | 27.07 | - |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
