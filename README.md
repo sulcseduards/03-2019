@@ -70,3 +70,10 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
 | Kristiāns |  | ✓ | - |
 | Līvija | [Jul 22](https://github.com/lpaegle/javascript-exercises) | - | ❌ Checks are failing. Pull Requests are missing |
+
+## JS Introductory Unit test exercise (deadline July 25)
+
+* Clone the [Frontend Training repository](https://github.com/codelex-io/frontend-training).
+* Look at the existing examples for tests in [`fun.test.ts`](https://github.com/codelex-io/frontend-training/blob/master/exercises/minesweeper/react-minesweeper/src/fun.test.ts).
+  - Implement a suite of tests that would describe the expected behavior for the `stateAfterClick` function. Describe how state should update when user clicks on fields with 0 bombs around them, where surrounding fields should be revealed automatically.
+  - Improve the implementation of `stateAfterClick` function ensuring that your tests pass.
