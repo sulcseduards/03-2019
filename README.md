@@ -69,4 +69,4 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
 | Kristiāns |  | ✓ | - |
-| Līvija | - | - | - |
+| Līvija | [Jul 22](https://github.com/lpaegle/javascript-exercises) | - | ❌ Checks are failing. Pull Requests are missing |
