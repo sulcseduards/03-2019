@@ -25,7 +25,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andrejs | - | - |
 | Jānis | - | - |
 | Andis | - | - |
-| Eduards | - | - |
+| Eduards | ✓ | ✓ |
 | Ēriks | - | - |
 | Zigmunds | - | - |
 | Kristiāna | - | - |
