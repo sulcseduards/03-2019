@@ -32,5 +32,5 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Krišjānis | 27.07 | 27.07 |
 | Andris | - | - |
 | Gatis | - | - |
-| Kristiāns | - | - |
+| Kristiāns | ✓ | ✓ |
 | Līvija | - | - |
