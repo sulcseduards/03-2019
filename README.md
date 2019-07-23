@@ -25,7 +25,7 @@
 | --- | --- | --- |
 | Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | - |
 | Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | - |
-| Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | - |
+| Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | ✅ |
 | Andrejs | ❌ | - |
 | Jānis | [Jul 12](https://github.com/janisrudis/CV) | - |
 | Andis | [Jul 13](https://github.com/mnemosx/figma-foundation/pull/1) | ✅ waiting for changes from Andis |
