@@ -23,7 +23,7 @@
 ## Figma Design (deadline - July 12th)
 | Name | Date & Link | Has been reviewed |
 | --- | --- | --- |
-| Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | - |
+| Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | ✅ Pull request had not been created, Not really responsive |
 | Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | ✅ |
 | Andrejs | ❌ | - |
