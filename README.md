@@ -11,7 +11,7 @@
 | Ēriks | https://github.com/PositiveEric |
 | Zigmunds | https://github.com/ProgressiveDev |
 | Kristiāna | https://github.com/ZoomOutt |
-| Krišjānis | - |
+| Krišjānis | https://github.com/ozolsoaksnet |
 | Andris | https://github.com/andrisLaduzans |
 | Gatis | https://github.com/gatis-dev |
 | Kristiāns | - |
@@ -33,7 +33,7 @@
 | Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | - |
 | Zigmunds | [Jul 13](https://github.com/ProgressiveDev/figma_project/pull/1/commits) | - |
 | Kristiāna | [Jul 12](https://github.com/ZoomOutt/Mana) | PR is missing |
-| Krišjānis | - | - |
+| Krišjānis | [Jul 11](https://github.com/ozolsoaksnet/Bad-Motherfu-r) | Pull request was not created |
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
 | Gatis | [Jul 15](https://github.com/gatis-dev/first-project/pull/2) | - | - |
 | Kristiāns | - |
@@ -65,7 +65,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | [Pending](https://github.com/ProgressiveDev/javascript-exercises/pulls) | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
-| Krišjānis | 27.07 | 27.07 | - |
+| Krišjānis | [27.07](https://github.com/ozolsoaksnet/javascript-exercises) | 27.07 | ❌ Checks are failing, Pull requests are missing |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
 | Kristiāns |  | ✓ | - |
