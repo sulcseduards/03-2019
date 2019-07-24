@@ -9,7 +9,7 @@
 | Andis | https://github.com/mnemosx |
 | Eduards | https://github.com/sulcseduards |
 | Ēriks | https://github.com/PositiveEric |
-| Zigmunds | - |
+| Zigmunds | https://github.com/ProgressiveDev |
 | Kristiāna | https://github.com/ZoomOutt |
 | Krišjānis | - |
 | Andris | https://github.com/andrisLaduzans |
@@ -31,7 +31,7 @@
 | Andis | [Jul 13](https://github.com/mnemosx/figma-foundation/pull/1) | ✅ waiting for changes from Andis |
 | Eduards | [Jul 23](https://github.com/sulcseduards/Figma) | There are commits, but no pull-requests |
 | Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | - |
-| Zigmunds | - | - |
+| Zigmunds | [Jul 13](https://github.com/ProgressiveDev/figma_project/pull/1/commits) | - |
 | Kristiāna | [Jul 12](https://github.com/ZoomOutt/Mana) | PR is missing |
 | Krišjānis | - | - |
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
@@ -63,7 +63,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andis | [Jul 22](https://github.com/mnemosx/javascript-exercises/pull/1) | [Jul 23](https://github.com/mnemosx/javascript-exercises/pull/2) | - |
 | Eduards | [Jul 23](https://github.com/sulcseduards/javascript-exercises/pull/1/files) | ✅ | ✅ Checked by Sandris. Easy & Medium in one PR |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
-| Zigmunds | - | - | - |
+| Zigmunds | [Pending](https://github.com/ProgressiveDev/javascript-exercises/pulls) | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
 | Krišjānis | 27.07 | 27.07 | - |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
