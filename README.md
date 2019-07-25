@@ -56,7 +56,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Name | Easy | Medium | Comments |
 | --- | --- | --- | --- |
 | Marta | [Jul 23](https://github.com/MartaBumane/javascript-exercises/pull/1) | [Jul 23](https://github.com/MartaBumane/javascript-exercises/pull/2) | - |
-| Ketija | - | [Jul 22](https://github.com/ketijakrista/javascript-exercises) | Pull Requests are missing |
+| Ketija | - | ✅ | Pull Requests are missing |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
 | Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
 | Jānis | ✅ | [Jul 23](https://github.com/janisrudis/javascript-exercises/pull/12) | - |
