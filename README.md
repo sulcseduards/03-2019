@@ -23,7 +23,6 @@
 ## Figma Design (deadline - July 12th)
 | Name | Date & Link | Has been reviewed |
 | --- | --- | --- |
-| Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | ✅ Pull request had not been created, Not really responsive |
 | Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | ✅ |
 | Andrejs | ❌ | - |
@@ -37,8 +36,6 @@
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
 | Gatis | [Jul 15](https://github.com/gatis-dev/first-project/pull/2) | - | - |
 | Kristiāns | - |
-| Līvija | [Jul 10](https://github.com/lpaegle/arch_inspires) | - |
-| Artūrs | [Jul 12](https://github.com/arturssan/another-project) | - |
 
 ## JS Exercises (deadline - July 22nd)
  
@@ -55,7 +52,6 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 
 | Name | Easy | Medium | Comments |
 | --- | --- | --- | --- |
-| Marta | [Jul 23](https://github.com/MartaBumane/javascript-exercises/pull/1) | [Jul 23](https://github.com/MartaBumane/javascript-exercises/pull/2) | - |
 | Ketija | - | ✅ | Pull Requests are missing |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
 | Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
@@ -63,13 +59,12 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andis | [Jul 22](https://github.com/mnemosx/javascript-exercises/pull/1) | [Jul 23](https://github.com/mnemosx/javascript-exercises/pull/2) | - |
 | Eduards | [Jul 23](https://github.com/sulcseduards/javascript-exercises/pull/1/files) | ✅ | ✅ Checked by Sandris. Easy & Medium in one PR |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
-| Zigmunds | [Pending](https://github.com/ProgressiveDev/javascript-exercises/pulls) | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
+| Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
 | Krišjānis | [27.07](https://github.com/ozolsoaksnet/javascript-exercises) | 27.07 | ❌ Checks are failing, Pull requests are missing |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
 | Kristiāns |  | ✓ | - |
-| Līvija | [Jul 22](https://github.com/lpaegle/javascript-exercises) | - | ❌ Checks are failing. Pull Requests are missing |
 
 ## JS Introductory Unit test exercise (deadline July 25)
 
