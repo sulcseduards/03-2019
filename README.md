@@ -66,7 +66,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | ✅ | ✅ | - |
 | Kristiāns |  | ✓ | - |
-| Marta | ✅ | - | - |
+| Marta | ✅ | ✅ | - |
 
 ## JS Introductory Unit test exercise (deadline July 25)
 
