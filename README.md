@@ -23,6 +23,7 @@
 ## Figma Design (deadline - July 12th)
 | Name | Date & Link | Has been reviewed |
 | --- | --- | --- |
+| Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | ✅ Pull request had not been created, Not really responsive |
 | Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | ✅ |
 | Andrejs | ❌ | - |
@@ -52,7 +53,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 
 | Name | Easy | Medium | Comments |
 | --- | --- | --- | --- |
-| Ketija | - | ✅ | Pull Requests are missing |
+| Ketija | ✅ | ✅ | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
 | Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
 | Jānis | ✅ | [Jul 23](https://github.com/janisrudis/javascript-exercises/pull/12) | - |
@@ -65,6 +66,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
 | Kristiāns |  | ✓ | - |
+| Marta | ✅ | - | - |
 
 ## JS Introductory Unit test exercise (deadline July 25)
 
