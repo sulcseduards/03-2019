@@ -61,7 +61,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Eduards | ✅ | ✅ |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
-| Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
+| Kristiāna | ✅ | ✅ | - |
 | Krišjānis | [27.07](https://github.com/ozolsoaksnet/javascript-exercises) | 27.07 | ❌ Checks are failing, Pull requests are missing |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | ✅ | ✅ | - |
