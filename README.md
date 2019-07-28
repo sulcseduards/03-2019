@@ -64,7 +64,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Kristiāna | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/3) | [Jul 23](https://github.com/ZoomOutt/javascript-exercises/pull/2) | - |
 | Krišjānis | [27.07](https://github.com/ozolsoaksnet/javascript-exercises) | 27.07 | ❌ Checks are failing, Pull requests are missing |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
-| Gatis | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/1) | [Jul 22](https://github.com/gatis-dev/javascript-exercises/pull/2) | - |
+| Gatis | ✅ | ✅ | - |
 | Kristiāns |  | ✓ | - |
 | Marta | ✅ | - | - |
 
