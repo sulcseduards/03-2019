@@ -57,7 +57,7 @@ Delete all the exercises which you are not planning to hand-in, so that all of t
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
 | Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
 | Jānis | ✅ | [Jul 23](https://github.com/janisrudis/javascript-exercises/pull/12) | - |
-| Andis | [Jul 22](https://github.com/mnemosx/javascript-exercises/pull/1) | [Jul 23](https://github.com/mnemosx/javascript-exercises/pull/2) | - |
+| Andis | ✅ | [Jul 23](https://github.com/mnemosx/javascript-exercises/pull/2) | - |
 | Eduards | ✅ | ✅ |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
