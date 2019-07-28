@@ -49,7 +49,7 @@ Complete:
 
 For each of them create a **separate PR** to your teacher.
 
-Delete all the exercises which you are not planning to hand-in, so that all of the tests are green.
+To make tests green - from your task directory delete all the exercises which you are not planning to hand-in. For example - delete unfinished easy exercises from the easy directory. 
 
 | Name | Easy | Medium | Comments |
 | --- | --- | --- | --- |
