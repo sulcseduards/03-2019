@@ -1,9 +1,9 @@
 # Group 03-2019
+
 | Name | GitHub Account |
 | --- | --- |
 | Marta | https://github.com/MartaBumane |
 | Ketija | https://github.com/ketijakrista |
-| Kārlis | https://github.com/RealRemeku |
 | Andrejs | https://github.com/AndrejssL |
 | Jānis | https://github.com/janisrudis |
 | Andis | https://github.com/mnemosx |
@@ -11,12 +11,9 @@
 | Ēriks | https://github.com/PositiveEric |
 | Zigmunds | https://github.com/ProgressiveDev |
 | Kristiāna | https://github.com/ZoomOutt |
-| Krišjānis | https://github.com/ozolsoaksnet |
 | Andris | https://github.com/andrisLaduzans |
 | Gatis | https://github.com/gatis-dev |
 | Kristiāns | - |
-| Līvija | https://github.com/lpaegle |
-| Artūrs | https://github.com/arturssan |
 
 # Assignments
 
@@ -33,7 +30,6 @@
 | Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | - |
 | Zigmunds | [Jul 13](https://github.com/ProgressiveDev/figma_project/pull/1/commits) | - |
 | Kristiāna | [Jul 12](https://github.com/ZoomOutt/Mana) | PR is missing |
-| Krišjānis | [Jul 11](https://github.com/ozolsoaksnet/Bad-Motherfu-r) | Pull request was not created |
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
 | Gatis | [Jul 15](https://github.com/gatis-dev/first-project/pull/2) | - | - |
 | Kristiāns | - |
@@ -62,7 +58,6 @@ To make tests green - from your task directory delete all the exercises which yo
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | ✅ | ✅ | - |
-| Krišjānis | [27.07](https://github.com/ozolsoaksnet/javascript-exercises) | 27.07 | ❌ Checks are failing, Pull requests are missing |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
 | Gatis | ✅ | ✅ | - |
 | Kristiāns |  | ✓ | - |
@@ -74,3 +69,11 @@ To make tests green - from your task directory delete all the exercises which yo
 * Look at the existing examples for tests in [`fun.test.ts`](https://github.com/codelex-io/frontend-training/blob/master/exercises/minesweeper/react-minesweeper/src/fun.test.ts).
   - Implement a suite of tests that would describe the expected behavior for the `stateAfterClick` function. Describe how state should update when user clicks on fields with 0 bombs around them, where surrounding fields should be revealed automatically.
   - Improve the implementation of `stateAfterClick` function ensuring that your tests pass.
+
+## JS Classes & Objects exercises (deadline August 3rd)
+
+* Complete [Exercise #4](https://github.com/codelex-io/frontend-syllabus/tree/master/js-basics/exercises#exercise-4) together with working unit test and add it to your *js-exercises* repository under medium exercises;
+* Complete [Video Store](https://github.com/codelex-io/javascript-exercises/tree/master/src/exercises/oop/video-store) in your repository;
+* **Give me more!** - complete [Flight Planner](https://github.com/codelex-io/frontend-syllabus/tree/master/js-basics/exercises#exercise-6) in your repository.
+
+Complete the tasks in a new branch called `classes-and-objects` and create PR to your teacher.
