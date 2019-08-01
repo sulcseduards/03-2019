@@ -21,13 +21,13 @@
 | Name | Date & Link | Has been reviewed |
 | --- | --- | --- |
 | Marta | [Jul 10](https://github.com/MartaBumane/ALOHA) | ✅ Pull request had not been created, Not really responsive |
-| Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | - |
+| Ketija | [Jul 10](https://github.com/ketijakrista/first-week/pull/3) | ✅ |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/ClashZone/pull/1) | ✅ |
 | Andrejs | ❌ | - |
-| Jānis | [Jul 12](https://github.com/janisrudis/CV) | - |
-| Andis | [Jul 13](https://github.com/mnemosx/figma-foundation/pull/1) | ✅ waiting for changes from Andis |
-| Eduards | [Jul 23](https://github.com/sulcseduards/Figma) | There are commits, but no pull-requests |
-| Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | - |
+| Jānis | [Jul 12](https://github.com/janisrudis/pirmais-projekts/pull/1) | ✅ |
+| Andis | [Jul 13](https://github.com/mnemosx/figma-foundation/pull/1) | ✅ 👏 Nicely responsive |
+| Eduards | [Jul 23](https://github.com/sulcseduards/Figma) | ✅ but it is not responsive |
+| Ēriks | [Jul 14](https://github.com/PositiveEric/Woodworking) | ✅ The figma task is not responsive, but woodworking scales nicely |
 | Zigmunds | [Jul 13](https://github.com/ProgressiveDev/figma_project/pull/1/commits) | - |
 | Kristiāna | [Jul 12](https://github.com/ZoomOutt/Mana) | PR is missing |
 | Andris | [Jul 13](https://github.com/andrisLaduzans/andrisladuzans.github.io) | - |
