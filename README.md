@@ -77,3 +77,19 @@ To make tests green - from your task directory delete all the exercises which yo
 * **Give me more!** - complete [Flight Planner](https://github.com/codelex-io/frontend-syllabus/tree/master/js-basics/exercises#exercise-6) in your repository.
 
 Complete the tasks in a new branch called `classes-and-objects` and create PR to your teacher.
+
+| Name | Fuel Gauge | Video Store | Flight Planner |
+| --- | --- | --- | --- |
+| Ketija | ✅ | - | - |
+| Kārlis | - | - | - |
+| Andrejs | - | - | - |
+| Jānis | - | - | - |
+| Andis | - | - | - |
+| Eduards | - | - | - |
+| Ēriks | - | - | - |
+| Zigmunds | - | - | - |
+| Kristiāna | - | - | - |
+| Andris | ✅ | - | - |
+| Gatis | - | - | - |
+| Kristiāns | - | - | - |
+| Marta | - | - | - |
