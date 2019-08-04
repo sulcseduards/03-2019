@@ -93,3 +93,36 @@ Complete the tasks in a new branch called `classes-and-objects` and create PR to
 | Gatis | - | - | - |
 | Kristiāns | - | - | - |
 | Marta | - | - | - |
+
+## Test - JavaScript & TypeScript (Aug 10th)
+
+It will include questions mainly from the following sources:
+
+1. [Up & Going @You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+2. [Scope @ Closures @You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+3. [this & Object Prototypes @You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+4. [Handbook @typescriptlang.org](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+
+To participate in the test you must send in one question with multiple choice answers for each of the the topics.
+
+To do that:
+
+ - create a new branch in this repository;
+ - add your questions in [./js-ts-test.md](./js-ts-test.md)
+ - create a PR to your teacher
+ 
+| Name | 1. | 2. | 3. | 4. |
+| --- | --- | --- | --- | --- |
+| Ketija | - | - | - | - |
+| Kārlis | - | - | - | - |
+| Andrejs | - | - | - | - |
+| Jānis | - | - | - | - |
+| Andis | - | - | - | - |
+| Eduards | - | - | - | - |
+| Ēriks | - | - | - | - |
+| Zigmunds | - | - | - | - |
+| Kristiāna | - | - | - | - |
+| Andris | - | - | - | - |
+| Gatis | - | - | - | - |
+| Kristiāns | - | - | - | - |
+| Marta | - | - | - | - |
