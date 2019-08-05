@@ -58,7 +58,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | ✅ | ✅ | - |
-| Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | - | - |
+| Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | ✅ | - |
 | Gatis | ✅ | ✅ | - |
 | Kristiāns |  | ✓ | - |
 | Marta | ✅ | ✅ | - |
