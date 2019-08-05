@@ -89,7 +89,7 @@ Complete the tasks in a new branch called `classes-and-objects` and create PR to
 | Ēriks | - | - | - |
 | Zigmunds | - | - | - |
 | Kristiāna | - | - | - |
-| Andris | ✅ | - | - |
+| Andris | ✅ | ✅ | - |
 | Gatis | - | - | - |
 | Kristiāns | - | - | - |
 | Marta | - | - | - |
