@@ -51,7 +51,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | --- | --- | --- | --- |
 | Ketija | ✅ | ✅ | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
-| Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
+| Andrejs | ✅ | - | - |
 | Jānis | ✅ | ✅ | - |
 | Andis | ✅ | ✅ | - |
 | Eduards | ✅ | ✅ |
