@@ -52,7 +52,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Ketija | ✅ | ✅ | - |
 | Kārlis | [Jul 17](https://github.com/RealRemeku/javascript-exercises) | - | ❌ Checks are failing, Pull requests are missing
 | Andrejs | [Jul 22](https://github.com/AndrejssL/javascript-exercises/pull/3/files) | - | ❌ Checks are failing |
-| Jānis | ✅ | [Jul 23](https://github.com/janisrudis/javascript-exercises/pull/12) | - |
+| Jānis | ✅ | ✅ | - |
 | Andis | ✅ | ✅ | - |
 | Eduards | ✅ | ✅ |
 | Ēriks | [Jul 23](https://github.com/gatis-dev/javascript-exercises/pull/1) | - | 2 Separate pull-requests for Easy and Medium were expected |
