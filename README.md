@@ -126,3 +126,31 @@ To do that:
 | Gatis | - | - | - | - |
 | Kristiāns | - | - | - | - |
 | Marta | - | - | - | - |
+
+## Shopping Cart in React (deadline August 12th)
+
+In a new repository create a shopping cart from scratch.
+
+Acceptance criteria:
+
+ - user sees a list of products on the left side;
+ - user sees the list of products he has chosen on the right side;
+ - every product has the fields name quantity price and sum;
+ - clicking on an item on the left should increase the quantity of the items in the shopping cart;
+ - at the bottom of the cart users use the total component which shows the total price x quantity of items selected.
+
+| Name | Done |
+| --- | --- |
+| Ketija | - |
+| Kārlis | - |
+| Andrejs | - |
+| Jānis | - |
+| Andis | - |
+| Eduards | - |
+| Ēriks | - |
+| Zigmunds | - |
+| Kristiāna | - |
+| Andris | - |
+| Gatis | - |
+| Kristiāns | - |
+| Marta | - |
