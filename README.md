@@ -150,7 +150,7 @@ In a new repository create a shopping cart from scratch.
     - [`react-router`](https://reacttraining.com/react-router/web/guides/quick-start) or  is used to lead to the checkout page, where user goes through a [stepper](https://material-ui.com/components/steppers/) to enter his address and credit card details in a multi step process.
     - Some items have limited quantity, and as user tries to increase the quantity on the cart, a [snackbar](https://material-ui.com/components/snackbars/#snackbars) appears with a warning notification that the stock is limited.
     - Items in the shop that have a quantity 0, can't even be added to the cart (are disabled)
-    - The cart is accessible even for people with disabilities - it should be possible for people to use the full functionality even for people that are unable to use the mouse - they can use <kbd>TAB</kbd> or <kbd>Shift</kbd> + <kbd>TAB</kbd> or <kbd>Space</kbd> or <kbd>Enter</kbd> to navigate and interact with the cart.
+    - The cart is accessible even for people with disabilities - it should be possible for people to use the full functionality even for people that are unable to use the mouse - they can use <kbd>TAB</kbd> or <kbd>Shift</kbd> + <kbd>TAB</kbd> or <kbd>Space</kbd> or <kbd>Enter</kbd> to navigate and interact with the cart. [This resource on MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Keyboard-navigable_JavaScript_widgets) could be useful.
 
 | Name | Done |
 | --- | --- |
