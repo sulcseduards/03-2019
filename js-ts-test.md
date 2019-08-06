@@ -69,3 +69,17 @@ a*) let result1 = buildName("Bob");
 b)  let result2 = buildName("Bob", "Adams", "Sr.");
 c*) const result3 = buildName("Bob", "Adams");
 d*) var result4 = buildName("Bob");
+
+Which expression is true?
+a) typeof {a:"Meow", b:666, "cat"} == 'object' b*) typeof ["Meow", 666, "cat"] == 'object' c) typeof {"cat"} == 'object' d) all are true
+
+Which two mechanisms in JavaScript can "cheat" lexical scope?
+a*) eval(..) and with b) setTimeout(..) and with c) eval(..) and setTimeout(..) d) all answers are correct
+
+What is a constructor?
+a*) A special method of the class used to construct instances of classes b) Another name for programmer c*) A method of the class which initializes any information (state) the instance will need. d) A function that is called when a class property is read from or written to.
+
+How would this expression be written using typescript? 
+let a=[[1,2],[3,4]];
+
+a) let a: Array[]=[[1,2],[3,4]]; b) let a: number[]=[[1,2],[3,4]];  c*) let a: number[][]=[[1,2],[3,4]]; d) let a: Array[][]=[[1,2],[3,4]];
