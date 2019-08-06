@@ -122,7 +122,7 @@ To do that:
 | Ēriks | - | - | - | - |
 | Zigmunds | - | - | - | - |
 | Kristiāna | - | - | - | - |
-| Andris | - | - | - | - |
+| Andris | ✅ | ✅ | ✅ | ✅ |
 | Gatis | - | - | - | - |
 | Kristiāns | - | - | - | - |
 | Marta | - | - | - | - |
