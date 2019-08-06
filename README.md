@@ -138,7 +138,7 @@ In a new repository create a shopping cart from scratch.
 * Every product has the fields name quantity price and sum;
 * Clicking on an item on the left should add it to the cart - Clicking on it the second time should increase the quantity - we don't want to see duplicates
 * At the bottom of the cart users see the total component which shows the total price x quantity of items selected.
-* *Optional Bonus Features for extra fanciness:*
+* *And at least 6 Bonus Features from these (or your own ideas):*
     - A few of the products have a discount - "Pay for 2, get 3rd one for free". Implement this logic to your cart - so that total price of the item and all cart is updated correctly as user adds/removes items to the cart.
     - On page reload the cart is not lost - you may use `localStorage`.
     - Items appear/disappear from the cart with an animation (or fly from the shop to cart via an animation) - [Spring based animatiopns](https://github.com/chenglou/react-motion) are really nice.
