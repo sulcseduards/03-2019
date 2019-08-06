@@ -60,7 +60,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Kristiāna | ✅ | ✅ | - |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | ✅ | - |
 | Gatis | ✅ | ✅ | - |
-| Kristiāns |  | ✓ | - |
+| Kristiāns | ✅ | ✅ | - |
 | Marta | ✅ | ✅ | - |
 
 ## JS Introductory Unit test exercise (deadline July 25)
