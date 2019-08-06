@@ -90,7 +90,7 @@ Complete the tasks in a new branch called `classes-and-objects` and create PR to
 | Zigmunds | - | - | - |
 | Kristiāna | - | - | - |
 | Andris | ✅ | ✅ | - |
-| Gatis | - | - | - |
+| Gatis | ✅ | ✅ | - |
 | Kristiāns | - | - | - |
 | Marta | - | - | - |
 
