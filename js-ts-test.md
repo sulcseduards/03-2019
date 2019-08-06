@@ -30,7 +30,6 @@ c) 2
 d) Error
 
 2.-------------------------------------------------
-# this & Object Prototypes @You Don't Know JS
 function foo() {
   const a = 4;
 	console.log( this.a );
