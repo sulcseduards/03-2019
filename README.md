@@ -121,7 +121,7 @@ To do that:
 | Eduards | - | - | - | - |
 | Ēriks | - | - | - | - |
 | Zigmunds | - | - | - | - |
-| Kristiāna | - | - | - | - |
+| Kristiāna | ✅ | ✅ | ✅ | ✅ |
 | Andris | ✅ | ✅ | ✅ | ✅ |
 | Gatis | - | - | - | - |
 | Kristiāns | - | - | - | - |
