@@ -55,7 +55,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Jānis | ✅ | ✅ | - |
 | Andis | ✅ | ✅ | - |
 | Eduards | ✅ | ✅ |
-| Ēriks | ✅ | - | - |
+| Ēriks | ✅ | ✅ | - |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | ✅ | ✅ | - |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | ✅ | - |
