@@ -10,13 +10,7 @@ d) fourth choice
 
 # Up & Going @You Don't Know JS
 
-# Scope @ Closures @You Don't Know JS
-
-# this & Object Prototypes @You Don't Know JS
-
-# Handbook @typescriptlang.org
-
-1.-------------------------------------------------
+---
 function foo(a) {
 	console.log( a + b );
 	let b = a;
@@ -29,7 +23,9 @@ b*) NaN
 c) 2
 d) Error
 
-2.-------------------------------------------------
+# Scope @ Closures @You Don't Know JS
+
+---
 function foo() {
   const a = 4;
 	console.log( this.a );
@@ -50,14 +46,18 @@ b) hello
 c) 2
 d) 4
 
-3.----------------------------------------------------
+# this & Object Prototypes @You Don't Know JS
+
+---
 Which of these is correct type assertion syntax?
 a*) <string>someValue
 b*) someValue as string
 c)both
 d)none of these
 
-4------------------------------------------------------
+# Handbook @typescriptlang.org
+
+---
 function buildName(firstName: string, lastName?: string) {
     if (lastName)
         return firstName + " " + lastName;
