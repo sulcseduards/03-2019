@@ -11,72 +11,51 @@ d) fourth choice
 # Up & Going @You Don't Know JS
 
 ---
-```javascript
-function foo(a) {
-	console.log( a + b );
-	let b = a;
-}
-foo( 2 );
-```
+What is the difference between “==” and “===” ?
 
-What is the output?
+a) ”==” sets values ”===” only compares values
+b) ”===” sets values ”==” compares values
+c*) ”==” only compares values “===” compare values and type both
+d) ”===” only compares values “==” compare values and type both
 
-a) 4
-b*) NaN
-c) 2
-d) Error
 
 # Scope @ Closures @You Don't Know JS
 
 ---
-```javascript
-function foo() {
-  const a = 4;
-	console.log( this.a );
-}
-var a = {
-	a: 2
+{
+  let a = 123;
 };
-var b = {
-  a:a,
-  foo:foo,
-  b: 'hello'
-}
-foo.call( b );
-```
+
+console.log(a);
+
 
 What is the output?
 
-a*) {a:2}
-b) hello
-c) 2
-d) 4
+a*) ReferenceError: a is not defined.
+b) undefined
+c) 123
+d) null
 
 # this & Object Prototypes @You Don't Know JS
 
 ---
-Which of these is correct type assertion syntax?
+What is this? In method,
 
-a*) <string>someValue
-b*) someValue as string
-c)both
-d)none of these
+Complete sentence.
+
+a) this refers to the owner constructor.
+b*) this refers to the owner object.
+c) this refers to the owner properties.
+d) this refers to the owner prototypes.
 
 # Handbook @typescriptlang.org
 
 ---
-```typescript
-function buildName(firstName: string, lastName?: string) {
-    if (lastName)
-        return firstName + " " + lastName;
-    else
-        return firstName;
-}
-```
 
-Which is the correct function call?
 
-a*) let result1 = buildName("Bob");
-b)  let result2 = buildName("Bob", "Adams", "Sr.");
-c*) const result3 = buildName("Bob", "Adams");
-d*) var result4 = buildName("Bob");
+Static typing is feature in: 
+
+a) Javascript
+b*) Typescript
+c) None.
+d) Both.
