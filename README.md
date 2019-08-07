@@ -92,7 +92,7 @@ Complete the tasks in a new branch called `classes-and-objects` and create PR to
 | Andris | ✅ | ✅ | - |
 | Gatis | ✅ | ✅ | - |
 | Kristiāns | - | - | - |
-| Marta | - | - | - |
+| Marta | ✅ | ✅ | ✅ |
 
 ## Test - JavaScript & TypeScript (Aug 10th)
 
