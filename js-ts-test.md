@@ -1,82 +1,45 @@
-# How to add question?
-
----
-Question body goes here...
-
-a) first choice
-b*) second choice (correct answer is marked with a star)
-c) third choice
-d) fourth choice
-
 # Up & Going @You Don't Know JS
+1. What is the output? 
+var a = [1,2,3]; 
+var b = [1,2,3]; 
+var c = "1,2,3";
 
----
-```javascript
-function foo(a) {
-	console.log( a + b );
-	let b = a;
-}
-foo( 2 );
-```
+a == c; 
+b == c; 
+a == b;
 
-What is the output?
+^^ Choice one answer ^^ 
+a) NaN 
+b) false, true, true 
+c*) true, true, false 
+d) Undefiend
 
-a) 4
-b*) NaN
-c) 2
-d) Error
+#Scope @ Closures @You Don't Know JS
+2. What will be in the second output?
 
-# Scope @ Closures @You Don't Know JS
+var a = 2; (function IIFE( def ){ def( window ); })(function def( global ){ var a = 3; console.log( a ); console.log( global.a ); });
 
----
-```javascript
-function foo() {
-  const a = 4;
-	console.log( this.a );
-}
-var a = {
-	a: 2
-};
-var b = {
-  a:a,
-  foo:foo,
-  b: 'hello'
-}
-foo.call( b );
-```
+^^ Choice one answer ^^ 
+a*) 2 
+b) 1 
+c) 3 
+d) Null
 
-What is the output?
+#this & Object Prototypes @You Don't Know JS
+3. What will be in the output and what kind of function method is this?
 
-a*) {a:2}
-b) hello
-c) 2
-d) 4
+var globalObject = this; 
+var foo = (() => this); 
+console.log(foo() === globalObject);
 
-# this & Object Prototypes @You Don't Know JS
+^^ Choice one answer ^^ 
+a) false, Simple call 
+b) true, The Bind Method 
+c*)true, The Arrow Function 
+d) false, As an object method
 
----
-Which of these is correct type assertion syntax?
+#Handbook @typescriptlang.org
+4. Which are different data types that are supported by Typescript and explain how to implement inheritance? 
 
-a*) <string>someValue
-b*) someValue as string
-c)both
-d)none of these
-
-# Handbook @typescriptlang.org
-
----
-```typescript
-function buildName(firstName: string, lastName?: string) {
-    if (lastName)
-        return firstName + " " + lastName;
-    else
-        return firstName;
-}
-```
-
-Which is the correct function call?
-
-a*) let result1 = buildName("Bob");
-b)  let result2 = buildName("Bob", "Adams", "Sr.");
-c*) const result3 = buildName("Bob", "Adams");
-d*) var result4 = buildName("Bob");
+a)Boolean: This can have values as true or false Number: This allows creating a user-defined data type. String: This can be any character value Array: This can be a list of numbers together Enum: This can be any number value
+b*) Boolean: This can have values as true or false Number: This can be any number value String: This can be any character value Array: This can be a list of numbers together Enum: This allows creating a user-defined data type.
