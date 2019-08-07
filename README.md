@@ -117,7 +117,7 @@ To do that:
 | Kārlis | - | - | - | - |
 | Andrejs | - | - | - | - |
 | Jānis | - | - | - | - |
-| Andis | - | - | - | - |
+| Andis | ✅ | ✅ | ✅ | ✅ |
 | Eduards | - | - | - | - |
 | Ēriks | - | - | - | - |
 | Zigmunds | - | - | - | - |
