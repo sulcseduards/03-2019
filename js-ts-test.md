@@ -1,4 +1,4 @@
-## How to add question?
+# How to add question?
 
 Question body goes here...
 
@@ -7,9 +7,7 @@ b*) second choice (correct answer is marked with a star)
 c) third choice  
 d) fourth choice  
 
----
-
-## Up & Going @You Don't Know JS
+# Up & Going @You Don't Know JS
 
 ```javascript
 function foo(a) {
@@ -26,7 +24,7 @@ b*) NaN
 c) 2  
 d) Error  
 
-#
+***
 
 How would you execute (call) this function?
 
@@ -41,9 +39,7 @@ b) By calling it with foo();
 c*) No need to call it, it is immediately invoked by () at the end of the expression  
 d) By calling it with foo.call();  
 
----
-
-## Scope @ Closures @You Don't Know JS
+# Scope @ Closures @You Don't Know JS
 
 ```javascript
 function foo() {
@@ -68,7 +64,7 @@ b) hello
 c) 2  
 d) 4  
 
-#
+***
 
 Which of the following statemenets are false?
 
@@ -77,9 +73,7 @@ b) A variable defined as _const_ or _let_ is also visible outside that block whe
 c) A variable defined as _var_ inside a function is visible in every part of program  
 d*) All of the above  
 
----
-
-## this & Object Prototypes @You Don't Know JS
+# this & Object Prototypes @You Don't Know JS
 
 Which of these is correct type assertion syntax?
 
@@ -88,7 +82,7 @@ b*) someValue as string
 c)both  
 d)none of these  
 
-#
+***
 
 What does the following code print to the console?
 
@@ -104,9 +98,7 @@ b) false
 c) undefined  
 d) ReferenceError: this is not defined  
 
----
-
-## Handbook @typescriptlang.org
+# Handbook @typescriptlang.org
 
 ```typescript
 function buildName(firstName: string, lastName?: string) {
@@ -124,7 +116,7 @@ b)  let result2 = buildName("Bob", "Adams", "Sr.");
 c*) const result3 = buildName("Bob", "Adams");  
 d*) var result4 = buildName("Bob");  
 
-#
+***
 
 ```typescript
 function buildName(firstName = "Will", lastName: string) {
