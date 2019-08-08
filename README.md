@@ -55,7 +55,7 @@ To make tests green - from your task directory delete all the exercises which yo
 | Jānis | ✅ | ✅ | - |
 | Andis | ✅ | ✅ | - |
 | Eduards | ✅ | ✅ |
-| Ēriks | ✅ | - | - |
+| Ēriks | ✅ | ✅ | - |
 | Zigmunds | ✅ | - | 👨🏼‍💻 Waiting for pull-requests and pipelines to be enabled |
 | Kristiāna | ✅ | ✅ | - |
 | Andris | [Jul 22](https://github.com/andrisLaduzans/javascript-exercises/pull/3) | ✅ | - |
@@ -86,13 +86,13 @@ Complete the tasks in a new branch called `classes-and-objects` and create PR to
 | Jānis | - | - | - |
 | Andis | ✅ | ✅ | - |
 | Eduards | - | - | - |
-| Ēriks | - | - | - |
+| Ēriks | ✅ | ✅ | - |
 | Zigmunds | - | - | - |
 | Kristiāna | - | - | - |
 | Andris | ✅ | ✅ | - |
 | Gatis | ✅ | ✅ | - |
 | Kristiāns | - | - | - |
-| Marta | - | - | - |
+| Marta | ✅ | ✅ | ✅ |
 
 ## Test - JavaScript & TypeScript (Aug 10th)
 
@@ -114,14 +114,14 @@ To do that:
 | Name | 1. | 2. | 3. | 4. |
 | --- | --- | --- | --- | --- |
 | Ketija | - | - | - | - |
-| Kārlis | - | - | - | - |
+| Kārlis | ✅ | ✅ | ✅ | ✅ |
 | Andrejs | - | - | - | - |
 | Jānis | - | - | - | - |
-| Andis | - | - | - | - |
+| Andis | ✅ | ✅ | ✅ | ✅ |
 | Eduards | - | - | - | - |
 | Ēriks | - | - | - | - |
 | Zigmunds | - | - | - | - |
-| Kristiāna | - | - | - | - |
+| Kristiāna | ✅ | ✅ | ✅ | ✅ |
 | Andris | ✅ | ✅ | ✅ | ✅ |
 | Gatis | - | - | - | - |
 | Kristiāns | - | - | - | - |
