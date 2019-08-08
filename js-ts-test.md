@@ -62,6 +62,14 @@ b) false, true, true
 c*) true, true, false 
 d) Undefiend
 
+---
+What is the difference between “==” and “===” ?
+
+a) ”==” sets values ”===” only compares values
+b) ”===” sets values ”==” compares values
+c*) ”==” only compares values “===” compare values and type both
+d) ”===” only compares values “==” compare values and type both
+
 # Scope @ Closures @You Don't Know JS
 
 ```javascript
@@ -120,6 +128,21 @@ b) 1
 c) 3 
 d) Null
 
+---
+{
+  let a = 123;
+};
+
+console.log(a);
+
+
+What is the output?
+
+a*) ReferenceError: a is not defined.
+b) undefined
+c) 123
+d) null
+
 # this & Object Prototypes @You Don't Know JS
 
 Which of these is correct type assertion syntax?
@@ -176,6 +199,17 @@ b) true, The Bind Method
 c*)true, The Arrow Function 
 d) false, As an object method
 
+---
+What is this? In method,
+
+Complete sentence.
+
+a) this refers to the owner constructor.
+b*) this refers to the owner object.
+c) this refers to the owner properties.
+d) this refers to the owner prototypes.
+
+
 # Handbook @typescriptlang.org
 
 ```typescript
@@ -224,3 +258,12 @@ Which are different data types that are supported by Typescript and explain how 
 
 a)Boolean: This can have values as true or false Number: This allows creating a user-defined data type. String: This can be any character value Array: This can be a list of numbers together Enum: This can be any number value
 b*) Boolean: This can have values as true or false Number: This can be any number value String: This can be any character value Array: This can be a list of numbers together Enum: This allows creating a user-defined data type.
+
+---
+
+Static typing is feature in: 
+
+a) Javascript
+b*) Typescript
+c) None.
+d) Both.
